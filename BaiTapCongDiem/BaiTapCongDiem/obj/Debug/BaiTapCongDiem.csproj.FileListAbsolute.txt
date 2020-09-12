@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\BaiTapCongDiem\BaiTapCongDiem\bin\Debug\BaiTapCongDiem.exe.config
+C:\Users\ASUS\source\repos\BaiTapCongDiem\BaiTapCongDiem\bin\Debug\BaiTapCongDiem.exe
+C:\Users\ASUS\source\repos\BaiTapCongDiem\BaiTapCongDiem\bin\Debug\BaiTapCongDiem.pdb
+C:\Users\ASUS\source\repos\BaiTapCongDiem\BaiTapCongDiem\obj\Debug\BaiTapCongDiem.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\BaiTapCongDiem\BaiTapCongDiem\obj\Debug\BaiTapCongDiem.ColorEdit.resources
+C:\Users\ASUS\source\repos\BaiTapCongDiem\BaiTapCongDiem\obj\Debug\BaiTapCongDiem.Properties.Resources.resources
+C:\Users\ASUS\source\repos\BaiTapCongDiem\BaiTapCongDiem\obj\Debug\BaiTapCongDiem.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\BaiTapCongDiem\BaiTapCongDiem\obj\Debug\BaiTapCongDiem.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\BaiTapCongDiem\BaiTapCongDiem\obj\Debug\BaiTapCongDiem.exe
+C:\Users\ASUS\source\repos\BaiTapCongDiem\BaiTapCongDiem\obj\Debug\BaiTapCongDiem.pdb
+C:\Users\ASUS\source\repos\BaiTapCongDiem\BaiTapCongDiem\obj\Debug\BaiTapCongDiem.SuDungListView.resources
+C:\Users\ASUS\source\repos\BaiTapCongDiem\BaiTapCongDiem\obj\Debug\BaiTapCongDiem.TuDien.resources
+C:\Users\ASUS\source\repos\BaiTapCongDiem\BaiTapCongDiem\obj\Debug\BaiTapCongDiem.ComboListBox.resources
+C:\Users\ASUS\source\repos\BaiTapCongDiem\BaiTapCongDiem\obj\Debug\BaiTapCongDiem.DateTimePicker.resources
